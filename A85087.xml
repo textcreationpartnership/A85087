@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech or declaration of the Lord Faulkland, to the Lords of the Vpper House, upon the delivery of the articles of the Commons assembly in Parliament: against the Lord Finch.</title>
+            <author>Falkland, Lucius Cary, Viscount, 1610?-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85087</idno>
+            <idno type="STC">Wing F326</idno>
+            <idno type="STC">Thomason E196_26</idno>
+            <idno type="STC">ESTC R7472</idno>
+            <idno type="EEBO-CITATION">99873140</idno>
+            <idno type="PROQUEST">99873140</idno>
+            <idno type="VID">157456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech or declaration of the Lord Faulkland, to the Lords of the Vpper House, upon the delivery of the articles of the Commons assembly in Parliament: against the Lord Finch.</title>
+                  <author>Falkland, Lucius Cary, Viscount, 1610?-1643.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet, and are to be sold at Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary blank leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finch of Fordwich, John Finch, --  Baron, 1584-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157456:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:157456:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>THE SPEECH OR DECLARATION OF THE LORD FAVLKLAND, TO THE LORDS OF the Vpper Houſe, upon the delivery of the Articles of the Commons Aſſembly in <hi>Parliament:</hi> AGAINST THE LORD FINCH.</p>
+            <p>LONDON, Printed for <hi>John Bartlet,</hi> and are to be ſold at <hi>Auſtins</hi> Gate. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157456:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:157456:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <head>THE LORD FAVLKLANDS SECOND SPEECH, Made the 14<hi rend="sup">th</hi> of <hi>January,</hi> 
+               <date>
+                  <add>1640</add>
+               </date> after the reading of the Articles againſt the Lord FINCH.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HESE Articles againſt my Lord FINCH being read, I may be bold to apply that of the Poet, <hi>Nil refert tales verſus qua voce legantur;</hi> and I doubt not but your Lordſhips muſt be of the ſame
+<pb n="2" facs="tcp:157456:3"/>
+               <!-- PDF PAGE 39 -->opinion, of which the Houſe of Commons appeares to have bin, by the choyce they have made of me, that the Charge I have brought is ſuch, as needs no Aſſiſtance from the bringer, leaving not ſo much as the colour of a colour for any defence, including all poſ<g ref="char:EOLhyphen"/>ſible Evidence, and all poſſible Aggravation (that addition alone excepted) which he alone could make, and hath made, I meane his Confeſſion, included in his flight.</p>
+            <p>Here are many and mighty Crimes, Crimes of Supererogation, (So that High Treaſon is but a part of his Charge) purſuing him fer<g ref="char:EOLhyphen"/>vently in every ſeverall condition, (being a ſilent Speaker, an unjuſt Judge, and an uncon<g ref="char:EOLhyphen"/>ſcionable Keeper.) That his Life appeares a perpetuall Warfare (by Mines, and by Battery, by Battell, and by Stratagem) againſt our fundamentall Laws, which (by his owne confeſſion) ſeverall Conqueſts had left un<g ref="char:EOLhyphen"/>toucht, againſt the excellent Conſtitution of this Kingdome, which hath made it appeare to Strangers rather an <hi>Idea,</hi> then a reall Com<g ref="char:EOLhyphen"/>mon-wealth, and produced the honour and happineſſe of this to be a wonder of every other Nation, and this with unfortunate ſuc<g ref="char:EOLhyphen"/>ceſſe, that as he alwayes intended to make our Ruines a ground of his advancement; ſo his
+<pb n="3" facs="tcp:157456:3"/>
+               <!-- PDF PAGE 39 -->advancement the meanes of our further ruine.</p>
+            <p>After that, contrary to the further end of his place, and the end of that meeting in which he held his place, he had as it were, gagg'd the Common-wealth, taking away, (to his power) all power of ſpeech from that body of which he ought to have bin the Mouth, and which alone can perfectly repreſent the condition of the people, whom that only repreſents, which if he had not done, in all probability, what ſo grave and judicious an Aſſembly might have offered to the conſide<g ref="char:EOLhyphen"/>ration of ſo gracious and juſt a Prince, had occaſioned the redreſſe of the grievances they then ſuffered, and prevented thoſe which we have ſince endured, according to the ancient Maxime of <hi>Odiſſe quos laeſeris:</hi> he purſued this offence towards the <hi>Parliament,</hi> by in<g ref="char:EOLhyphen"/>veighing againſt the Members, by Scan<g ref="char:EOLhyphen"/>dalizing their proceedings, by trampling upon their Acts and Declarations; by uſurping and devolving the Right; by diminiſhing and abrogating the power, both of that and other <hi>Parliaments,</hi> and making them (as much as in him lay) both uſeleſſe and odious to his Maje<g ref="char:EOLhyphen"/>ſtie, and purſued his hatred to this fountaine of Juſtice by corrupting the ſtreames of it, the
+<pb n="4" facs="tcp:157456:4"/>
+               <!-- PDF PAGE 40 -->Laws; and perverting the Conduit pipes, the Judges.</p>
+            <p>He practized the annihilating of Ancient, and Notorious perambulations of particu<g ref="char:EOLhyphen"/>lar Forreſts, the better to prepare himſelfe to annihilate the Ancient, and Notorious per<g ref="char:EOLhyphen"/>ambulation of the whole Kingdome, the Meeres and bounders between the liberties of the Subject and Soveraigne power; he endea<g ref="char:EOLhyphen"/>voured to have all tenures <hi>in durante bene placi<g ref="char:EOLhyphen"/>to,</hi> to bring al Law from his Majeſties Courts, into his Majeſties breſt: he gave our goods to the King, our Lands to the Deere, our Liberties to his Sheriffes; ſo that there was no way by which we had not been oppreſt, and deſtroyed, if the power of this perſon, had been equall with his will: Or that the will of his Majeſty, had been equall to his power.</p>
+            <p>He not onely by this meanes, made us lyable to all the effect of an Invaſion from within, (and by deſtruction of our Liber<g ref="char:EOLhyphen"/>ties, which Included the deſtruction of our propriety; which Included the deſtruction of our Induſtry) made us lyable to the terribleſt of all Invaſions: that of want, and povertie. So that if what he plotted, had
+<pb n="5" facs="tcp:157456:4"/>
+               <!-- PDF PAGE 40 -->taken Roote (and he made it, as ſure as his Declaration could make it (what him<g ref="char:EOLhyphen"/>ſelfe was not) <hi>Parliament Proofe</hi>) in this wealthy, and happy Kingdome, there could have beene left, no abundance but of grievances, and diſcontentment, no ſatiſ<g ref="char:EOLhyphen"/>faction but amongſt the guiltie. It is ge<g ref="char:EOLhyphen"/>nerally obſerved of the Plague, that the Infection of others, is an earneſt, and con<g ref="char:EOLhyphen"/>ſtant deſire of all that are ſeized by it: and as this deſigne reſembles that diſeaſe, in the ruine, deſtruction, and deſolation, it would have wrought, ſo it ſeemes noe leſſe like it in this effect: He having ſo laboured to make others ſhare in that guilt, that his ſollicitation, was not only his Action, but his workes, making uſe both of his Authority, his Intereſſe, and Importunity, to perſwade; and in his Majeſties name (whoſe piety is knowne to give that Excellent Prerogative to his perſon, that The Law gives to his place, not to be able to do wrong) to threaten the reſt of the Iudges, to ſigne opinions contrary to Law, to aſſigne anſwers con<g ref="char:EOLhyphen"/>trary to their opinions, to give Iudg<g ref="char:EOLhyphen"/>ment which they ought not to have given, and to recant Iudgment, when they had given as they ought, ſo that whoſoever conſi<g ref="char:EOLhyphen"/>ders
+<pb n="6" facs="tcp:157456:5"/>
+               <!-- PDF PAGE 41 -->his care of, and Concernment, both in the growth and the Immortality of this pro<g ref="char:EOLhyphen"/>ject, cannot but by the ſame way, by which the wiſeſt Iudgment found the true Mo<g ref="char:EOLhyphen"/>ther of the Child, diſcover him not onely to have been the Foſterer, but the Father, of this moſt pernicious, and envious deſigne.</p>
+            <p>I ſhall not need to obſerve that this was plotted and purſued by an <hi>Engliſh man,</hi> againſt <hi>England,</hi> (which encreaſeth the Crime in no leſſe degree then parricide is beyond Murther) that this was done in the greateſt matter joyned to the greateſt Bond, being againſt the generall libertie, and publique propriety, by a ſworne Iudge, (and if that ſalt it ſelfe, becauſe unſavory, the Goſpel it ſelfe, hath deſign'd whi<g ref="char:EOLhyphen"/>ther it muſt be caſt) that he poyſoned our very Antidotes, and turned our Guard into a deſtruction, making Law the ground of Illegality: that he uſed this Law not onely againſt us, but againſt it ſelfe, making it as I may ſay, <hi>Felo de ſe,</hi> making the pretence, (for I can ſcarſe ſay, the ap<g ref="char:EOLhyphen"/>pearance of it) ſo to contribute the utter ruine of it ſelfe.</p>
+            <p>I ſhall not need to ſay, that either this (or none can be) of the higheſt kind, and in the higheſt degree of Parliamentary
+<pb n="7" facs="tcp:157456:5"/>
+               <!-- PDF PAGE 41 -->Treaſon, a Treaſon which need not a com<g ref="char:EOLhyphen"/>putation of many ſeverall Actions, which alone were not Treaſon, to prove a Trea<g ref="char:EOLhyphen"/>ſon altogether, and by that demonſtra<g ref="char:EOLhyphen"/>tion of the intention, to make that formality Treaſon which were materially but a miſdemeanor, a Treaſon, aſwell againſt the King, as againſt the Kingdome, for whatſoever is againſt the whole, is un<g ref="char:EOLhyphen"/>doubtedly againſt the head, which takes from his Majeſty, the ground of his Rule, the Lawes, (for if foundations be deſtroy<g ref="char:EOLhyphen"/>ed, the Pinnacles are moſt endangered) which takes from his Majeſty the princi<g ref="char:EOLhyphen"/>pall honour of his Rule, the Ruling over Free-men, (a power as much Nobler then over Villaynes, as that is that's over Beaſts) which endeavored to take from his Majeſty, the principall ſupport of his Rule, their hearts and affections over whom he Rules (a better and ſurer ſtrength and wall to the King, then the Sea is to the Kingdome) and by begetting a mutuall diſtruſt, and by that a mutuall diſaffection betweene them, to hazard the danger even of the deſtruction of both.</p>
+            <p>
+               <hi>My Lords,</hi>
+               <lb/>
+I ſhall the leſſe need to preſſe this, becauſe
+<pb n="8" facs="tcp:157456:6"/>
+               <!-- PDF PAGE 42 -->as it were unreaſonable in any caſe to ſuſpect your Iuſtice, ſo here eſpecially, where your Intereſt ſo neerely unites you, your great ſhare in Poſſeſſions, giving you an e<g ref="char:EOLhyphen"/>quall concernment in propriety, the care and paines uſed by your Noble Anceſtors in the founding &amp; aſſerting of our comon Liber<g ref="char:EOLhyphen"/>ties, rendring the juſt defence of them, your moſt proper and peculiar Inheritance, and both exciting to oppoſe and extirpate all ſuch deſignes as did introduce, and would have ſettled an Arbitrary, that is, an Intol<g ref="char:EOLhyphen"/>lerable forme of Government, and have made even your Lordſhips and your poſteri<g ref="char:EOLhyphen"/>tie but Right Honourable Slaves.</p>
+            <p>
+               <hi>My Lords,</hi>
+               <lb/>
+I will ſpend no more words, <hi>Luctando cum larva,</hi> in accuſing the Ghoſt of a de<g ref="char:EOLhyphen"/>parted perſon, whom his crimes accuſe more then I can doe; and his abſence accu<g ref="char:EOLhyphen"/>ſeth no leſſe then his Crime. Neither will I excuſe the length of what I have ſayd, becauſe I cannot adde to an Excuſe, with<g ref="char:EOLhyphen"/>out adding to the Fault, or my own Imper<g ref="char:EOLhyphen"/>fections, either in the matter or manner of it, which I know muſt appeare the greater, by being compared with that Learned Gen<g ref="char:EOLhyphen"/>tlemans great ability, who hath preceded
+<pb n="9" facs="tcp:157456:6"/>
+               <!-- PDF PAGE 42 -->me at this time: I will only deſire by the Command, and in the behalfe of the Houſe of Commons, that theſe proceedings againſt the Lord FINCH, may be put in ſo ſpeedy a way of diſpatch, as in ſuch caſes the courſe of <hi>Parliament</hi> will allow.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
